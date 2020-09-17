@@ -1,8 +1,8 @@
 # Metamorphic Testing Examples
 ## 准备
 需要安装numpy库
-'''
-    pip install numpy
+'''   
+pip install numpy
 '''
 运行环境：python3.5.2
 
